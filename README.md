@@ -6,6 +6,7 @@
  [Heroku Account]()
  [VS Code IDE]()
  [GIT cli]()
+ [GIT DOCUMENTS](git-scm.com/docs/gittutorial)
 
  Creating conda environment
  '''
