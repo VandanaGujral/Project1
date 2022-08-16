@@ -92,3 +92,9 @@ docker stop <container_id>
 '''
 python setup.py install
 '''
+
+
+install ipnyb file in kernal
+'''
+install ipykernel
+'''
